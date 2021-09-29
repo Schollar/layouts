@@ -42,3 +42,14 @@
     border: solid 3px black;
 
 }
+
+div p {
+    font-size: 2em;
+}
+
+h1 {
+    font-size: 4rem;
+}
+ img {
+     width: 100pt;
+ }
