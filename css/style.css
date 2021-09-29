@@ -1,12 +1,44 @@
-body {
-    background-color: powderblue;
+.container {
+    position: relative;
+    background-color: orange;
+    width: 75vw;
+    height: 70vh;
+    border: solid 3px black;
 }
-h1 {
-    color: red;
-    font-weight: bold;
-    text-align: center;
+.red{
+    position: relative;
+    width: 25vh;
+    height: 80%;
+    background-color: red;
+    top: 4%;
+    left: 5%;
+    border: solid 3px black;  
 }
-p {
-    color: orange;
-    text-align: center;
+.green{
+    position: absolute;
+    width: 25vh;
+    height: 80%;
+    background-color: green;
+    left: 25%;
+    top: 4%;
+    border: solid 3px black;
+}
+.blue{
+    position: absolute;
+    width: 25vh;
+    height: 80%;
+    background-color: blue;
+    left: 45%;
+    top: 4%;
+    border: solid 3px black;
+}
+.purple{
+    position: absolute;
+    width: 25vh;
+    height: 80%;
+    background-color: purple;
+    left: 65%;
+    top: 4%;
+    border: solid 3px black;
+
 }
