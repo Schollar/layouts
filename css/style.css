@@ -7,7 +7,7 @@
 }
 .red{
     position: relative;
-    width: 25vh;
+    width: 15%;
     height: 80%;
     background-color: red;
     top: 4%;
@@ -16,7 +16,7 @@
 }
 .green{
     position: absolute;
-    width: 25vh;
+    width: 15%;
     height: 80%;
     background-color: green;
     left: 25%;
@@ -25,7 +25,7 @@
 }
 .blue{
     position: absolute;
-    width: 25vh;
+    width: 15%;
     height: 80%;
     background-color: blue;
     left: 45%;
@@ -34,7 +34,7 @@
 }
 .purple{
     position: absolute;
-    width: 25vh;
+    width: 15%;
     height: 80%;
     background-color: purple;
     left: 65%;
